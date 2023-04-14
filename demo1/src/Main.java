@@ -3,4 +3,7 @@ public class Main {
         System.out.println("demo");
         System.out.println("test");
     }
+    public void test() {
+
+    }
 }
